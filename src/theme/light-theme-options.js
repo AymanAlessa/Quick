@@ -32,26 +32,33 @@ const background = {
 const divider = "#E6E8F0";
 
 const primary = {
-	main: "#039D55",
-	deep: "#026034",
-	light: "#EBFDF2",
-	dark: "#1c6641",
-	semiLight: "#E4FFF3",
+	main: "#F59A35",
+	deep: "#A55818",
+	light: "#FBB46A",
+	dark: "#C17324",
+	semiLight: "#FFE5CC",
 	contrastText: "#FFFFFF",
-	customType1: "#0DCB72",
-	customType2: "#3BB77E",
-	customType3: "#29CE00",
+	customType1: "#F59A35",
+	customType2: "#F59A35",
+	customType3: "#F59A35",
 	overLay: "#000000",
-	lite: "rgba(3, 157, 85, 0.1)",
-	icon: "#039D55",
+	lite: "rgba(245, 154, 53, 0.1)",
+	icon: "#F59A35",
 };
+
 const moduleTheme = {
-	pharmacy: "#039D55",
-	ecommerce: "#039D55",
-	food: "#039D55",
-	parcel: "#039D55",
+	pharmacy: "#F59A35",
+	ecommerce: "#F59A35",
+	food: "#F59A35",
+	parcel: "#F59A35",
 };
-const horizontalCardBG = "#E4FFF3";
+
+const horizontalCardBG = "#FFF6EF";
+
+// باقي الكود بدون تغيير
+
+// ...
+// الكود تابع كما هو في نسختك الأصلية باستثناء تعديلات اللون الأساسي
 
 const secondary = {
 	main: "#10B981",
