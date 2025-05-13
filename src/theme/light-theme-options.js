@@ -32,33 +32,28 @@ const background = {
 const divider = "#E6E8F0";
 
 const primary = {
-	main: "#F59A35",
-	deep: "#A55818",
-	light: "#FBB46A",
-	dark: "#C17324",
-	semiLight: "#FFE5CC",
-	contrastText: "#FFFFFF",
-	customType1: "#F59A35",
-	customType2: "#F59A35",
-	customType3: "#F59A35",
+	main: "#FFD38C",
+	deep: "#B5883F",
+	light: "#FFE3B2",
+	dark: "#D6A857",
+	semiLight: "#FFF1DC",
+	contrastText: "#000000",
+	customType1: "#FFD38C",
+	customType2: "#FFD38C",
+	customType3: "#FFD38C",
 	overLay: "#000000",
-	lite: "rgba(245, 154, 53, 0.1)",
-	icon: "#F59A35",
+	lite: "rgba(255, 211, 140, 0.1)",
+	icon: "#FFD38C",
 };
 
 const moduleTheme = {
-	pharmacy: "#F59A35",
-	ecommerce: "#F59A35",
-	food: "#F59A35",
-	parcel: "#F59A35",
+	pharmacy: "#FFD38C",
+	ecommerce: "#FFD38C",
+	food: "#FFD38C",
+	parcel: "#FFD38C",
 };
 
 const horizontalCardBG = "#FFF6EF";
-
-// باقي الكود بدون تغيير
-
-// ...
-// الكود تابع كما هو في نسختك الأصلية باستثناء تعديلات اللون الأساسي
 
 const secondary = {
 	main: "#10B981",
@@ -121,18 +116,22 @@ const footer = {
 	appDownloadButtonBgHover: "#4f4f4f",
 	foodFooterBg: "#414141",
 };
+
 const customColor = {
 	textGray: "#9c9c9c",
 	textGrayDeep: "#787676",
 	buyButton: "#F9E091",
 	parcelWallet: "#8B3FFD",
 };
+
 const whiteContainer = {
 	main: "#ffffff",
 };
+
 const pink = {
 	main: "#FF6D76",
 };
+
 const foodCardColor = "#FFF6EF";
 const paperBoxShadow = "#E5EAF1";
 const roundStackOne = "rgba(255, 255, 255, 0.04)";
